@@ -4,4 +4,4 @@ $ git clone https://github.com/XYLENT-CF/XYLENT-CF2
 
 $ cd XYLENT-CF2
 
-$ python YGY.py
+$ python XYLENT-CF2.py
